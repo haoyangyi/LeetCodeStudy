@@ -9,7 +9,8 @@ import java.util.Map;
  * @author: hyy
  * @create: 2021-03-23 18:17
  *
- * 无重复字符的最长子串
+ * 3. 无重复字符的最长子串
+ * https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
  */
 public class Top3_lengthOfLongestSubstring {
     public int lengthOfLongestSubstring(String s) {

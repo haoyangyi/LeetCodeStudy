@@ -6,7 +6,8 @@ package com.hyy.leetcode.hot100;
  * @author: hyy
  * @create: 2021-03-24 11:45
  *
- * 最长回文子串
+ * 5. 最长回文子串
+ * https://leetcode-cn.com/problems/longest-palindromic-substring/
  */
 public class Top5_longestPalindrome {
     /**
